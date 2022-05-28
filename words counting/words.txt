@@ -1,0 +1,3 @@
+Hello I am Bruce
+I am a python backend developer
+I am learning python to be able to write my own scripts
