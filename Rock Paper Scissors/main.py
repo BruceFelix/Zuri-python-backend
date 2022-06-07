@@ -1,6 +1,25 @@
 import random
 
 while True:
+    
+    # possible_actions = ["rock", "paper", "scissors"]
+    # #getting user input
+    # user_action = input("Enter a choice ( rock, paper, scissors): ").lower() #converts user input to lower
+    # while True:    
+    #     if user_action not in possible_actions:
+    #         while True:
+    #             print("Wrong input")
+    #             user_action = input("kindly choose a valid choice(rock, paper, scissors): ").lower()
+    #             if user_action in possible_actions:
+    #                 break
+    #     else:
+    #         break
+    # # Computer chooses
+    # computer_action = random.choice(possible_actions)
+    """This would have been easier if I didn't have to use 'R', 'S', 'P' """
+
+
+
     possible_actions = ["R", "P", "S"]
     #getting user input
     user_action = input("Enter a choice (R for rock, P for paper, S for scissors): ").upper() #converts user input to uppercase
